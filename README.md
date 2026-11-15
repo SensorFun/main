@@ -1,7 +1,7 @@
 # SensorFun
 
 The landing page for [sensorfun.net](https://sensorfun.net/). It lists the
-SensorFun project spaces and their projects. Each space is a separate repository
+SensorFun spaces and their projects. Each space is a separate repository
 and site:
 
 | Space | Site | Projects |
@@ -19,7 +19,7 @@ python3 -m http.server --directory site 8000
 
 Then open `http://127.0.0.1:8000/`.
 
-## Add a project space or project
+## Add a space or project
 
 - New space: copy the ESP32 card in `site/index.html` and point its links at the
   space's own site. Each space site links back to `https://sensorfun.net/`.
