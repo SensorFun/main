@@ -6,7 +6,7 @@ and site:
 
 | Space | Site | Projects |
 | ----- | ---- | -------- |
-| ESP32 | `https://esp32.sensorfun.net/` | WebRTC — `https://esp32.sensorfun.net/#/projects/webrtc` |
+| ESP32 | `https://esp32.sensorfun.net/` | WebRTC — `https://esp32.sensorfun.net/#/projects/webrtc`<br>Flasher — `https://esp32.sensorfun.net/#/projects/flasher` |
 
 ## Site
 

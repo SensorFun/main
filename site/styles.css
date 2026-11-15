@@ -33,7 +33,7 @@ img,svg{max-width:100%}
 .space h3 a{display:inline-flex;align-items:center;min-height:44px}
 .space h3 a:hover{color:var(--teal-strong)}
 .space h4{font-size:13px;letter-spacing:1px;text-transform:uppercase;color:var(--muted);margin:22px 0 10px}
-.project-list{list-style:none;padding:0;margin:0 0 12px}
+.project-list{list-style:none;padding:0;margin:0 0 12px;display:grid;gap:10px}
 .project-list a{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:44px;padding:14px 16px;border:1px solid var(--line);border-radius:10px;transition:border-color .15s}
 .project-list a:hover{border-color:var(--teal)}
 .project-list strong{display:block;font-size:17px;margin-bottom:4px}
