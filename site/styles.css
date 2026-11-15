@@ -74,3 +74,5 @@ img,svg{max-width:100%}
   .section-heading h2,.about h2{font-size:26px}
 }
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
+
+.tool-list{max-width:720px}.tool-list a{background:var(--panel)}

@@ -6,7 +6,9 @@ and site:
 
 | Space | Site | Projects |
 | ----- | ---- | -------- |
-| ESP32 | `https://esp32.sensorfun.net/` | WebRTC — `https://esp32.sensorfun.net/#/projects/webrtc`<br>Flasher — `https://esp32.sensorfun.net/#/projects/flasher` |
+| ESP32 | `https://esp32.sensorfun.net/` | WebRTC — `https://esp32.sensorfun.net/#/projects/webrtc` |
+
+Within the ESP32 space, **Tools** links to [ESP32 Flasher](https://esp32.sensorfun.net/#/tools/flasher), separately from projects.
 
 ## Site
 
